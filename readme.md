@@ -2,6 +2,8 @@
 
 This code is part of a group assignment for the course "Data Mining" from ITU. I have included only the part that I worked on.
 
+The complete project can be found [here](https://github.com/ioni-abc/denmark-crime-populations-housing-analysis).
+
 ## Research Questions
 1. To what extent does criminal activity influence the housing market in the Zealand and Capital Regions of Denmark?
 2. Can we predict a house's price based on the local crime rate? What is/are the predictor/predictors?
